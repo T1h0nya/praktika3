@@ -1,0 +1,15 @@
+D:\projects\Praktika3\obj\Debug\Praktika3.csproj.AssemblyReference.cache
+D:\projects\Praktika3\obj\Debug\MainWindow.g.cs
+D:\projects\Praktika3\obj\Debug\App.g.cs
+D:\projects\Praktika3\obj\Debug\Praktika3_MarkupCompile.cache
+D:\projects\Praktika3\obj\Debug\Praktika3_MarkupCompile.lref
+D:\projects\Praktika3\bin\Debug\Praktika3.exe.config
+D:\projects\Praktika3\bin\Debug\Praktika3.exe
+D:\projects\Praktika3\bin\Debug\Praktika3.pdb
+D:\projects\Praktika3\obj\Debug\MainWindow.baml
+D:\projects\Praktika3\obj\Debug\Praktika3.g.resources
+D:\projects\Praktika3\obj\Debug\Praktika3.Properties.Resources.resources
+D:\projects\Praktika3\obj\Debug\Praktika3.csproj.GenerateResource.cache
+D:\projects\Praktika3\obj\Debug\Praktika3.csproj.CoreCompileInputs.cache
+D:\projects\Praktika3\obj\Debug\Praktika3.exe
+D:\projects\Praktika3\obj\Debug\Praktika3.pdb
